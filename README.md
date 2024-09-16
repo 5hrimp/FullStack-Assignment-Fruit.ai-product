@@ -2,6 +2,9 @@
 
 Overview
 This project is a React-based dashboard application that offers services like chatbot interactions and language translation. It includes user authentication (Login and Signup), navigation, and functionality for language translation.
+**dummy username and password**
+username: dummy
+password: 123
 
 Features
 - Dashboard: Provides access to different services (ChatBot, Translator).
